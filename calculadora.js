@@ -26,3 +26,4 @@ function Divisão()
                 var resultado = e1 / e2;
                 document.getElementById("res").innerHTML= "Resposta: " + resultado;
             }
+            // teste de push
